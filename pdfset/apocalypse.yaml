@@ -1,0 +1,87 @@
+set_name: Apocalypse
+cards: [
+	
+    # Sky cards
+    ["Major", 4, "Levi, Prophet Of Raijin"],
+    ["Major", 4, "Imma, Agent Of The Night"],
+    ["Major", 4, "Leader Of The Swarm"],
+    ["Major", 4, "Skull Collector"],
+    ["Major", 4, "Rainbow Rider"],
+    ["Major", 4, "Starlight Dragon"],
+    ["Major", 4, "The Wind's Wings"],
+    ["Major", 4, "Father Time"],
+    ["Major", 4, "Sunless Sky"],
+	
+	# Fire cards
+	["Major", 4, "Io, High Priestess"],
+    ["Major", 4, "Bane, Revealer Of Secrets"],
+    ["Major", 4, "MechaCerberus"],
+    ["Major", 4, "Searing Stag"],
+    ["Major", 4, "Devouring Locusts"],
+    ["Major", 4, "Phoenix Reaper"],
+    ["Major", 4, "Dragon Of Decay"],
+    ["Major", 4, "Broodmother"],
+    ["Major", 4, "Relentless Reaver"],
+    ["Major", 4, "Heaven On Fire"],
+    ["Major", 4, "Eternal Recurrence"],
+    ["Major", 4, "Trial By Fire"],
+	
+	# Ice cards
+	["Major", 4, "Luka, Unknown Avenger"],
+    ["Major", 4, "Annika, The Angel's Blade"],
+    ["Major", 4, "Untamed, Unbridled, Unbroken"],
+    ["Major", 4, "Leader Of The Colony"],
+    ["Major", 4, "Forgotten Creatures"],
+    ["Major", 4, "Breathtaking Banisher"],
+    ["Major", 4, "Cold Front"],
+    ["Major", 4, "Wind's Chill"],
+    ["Major", 4, "Ice's Sickle"],
+    ["Major", 4, "White Out"],
+    ["Major", 4, "Hyperborean"],
+    ["Major", 4, "Ice Age"],
+    ["Major", 4, "Lord Of The Lost"],
+    
+	# Rock cards
+	["Major", 4, "Miko, The Chiseled"],
+    ["Major", 4, "Aiden, The Tormented"],
+    ["Major", 4, "Rowan, Dark Magician"],
+    ["Major", 4, "Eli, Warden Of The Docks"],
+    ["Major", 4, "Triple Threat"],
+    ["Major", 4, "Stone Centurian"],
+    ["Major", 4, "Cathedral Of The Dragons"],
+    ["Major", 4, "Soul Drowner"],
+    ["Major", 4, "Rockslide Rigger"],
+    ["Major", 4, "The Draak Mountain Range"],
+    ["Major", 4, "Planet Bender"],
+    ["Major", 4, "Tombmaker"],
+    
+    # Deep-Sea cards
+    ["Major", 4, "Patron Of The Endless Night"],
+    ["Major", 4, "The Opening Abyss"],
+    ["Major", 4, "The Tide"],
+    ["Major", 4, "Warden Of The Crossing"],
+    ["Major", 4, "Guardian Of Atlantis"],
+    ["Major", 4, "Temple Drinker"],
+    ["Major", 4, "Thousand-Teethed Savage"],
+    ["Major", 4, "Neptune's Daemon"],
+    
+    # Desert cards
+    ["Major", 4, "Fallen Angel"],
+    ["Major", 4, "Famine Seeker"],
+    ["Major", 4, "Increasing Darkness"],
+    ["Major", 4, "Night's Return"],
+    ["Major", 4, "Underworlder"],
+    ["Major", 4, "Unspeakable Horror"],
+	
+	# Player / Arena cards
+	["Minor", 6, "Charge"],
+    ["Minor", 6, "Exile"],
+	["Minor", 6, "Reactor"],
+    ["Minor", 6, "Ability Priorities 2"],
+	
+	# Subversions
+	["Minor", 8, "Banished"],
+	["Minor", 8, "Powerless"],
+	["Minor", 8, "Startled"],
+	["Minor", 8, "Strengthened"],
+]
